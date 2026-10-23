@@ -1,0 +1,8 @@
+# Build output
+*.exe
+*.obj
+*.o
+
+# IDE / CMake generated
+cmake-build-*/
+.idea/
