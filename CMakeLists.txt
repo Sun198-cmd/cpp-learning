@@ -62,3 +62,4 @@ add_executable(b16_symbol_const     "C++基础/符号常量示例.cpp")
 
 # --- practice ---------------------------------------------------------
 add_executable(t01_debug           "debug_practice.cpp")
+add_executable(t02_guess           "guess_number.cpp")
